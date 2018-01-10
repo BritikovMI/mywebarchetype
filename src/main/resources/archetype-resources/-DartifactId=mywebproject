@@ -1,0 +1,68 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1mReactor Build Order:[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] DbHelper Project
+[[1;34mINFO[m] Parser module
+[[1;34mINFO[m] DbHelper App Module
+[[1;34mINFO[m] Ejb module
+[[1;34mINFO[m] DbHelper API Module
+[[1;34mINFO[m] DbHelper Util lib
+[[1;34mINFO[m] War module
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1mBuilding DbHelper Project 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m>>> [0;32mmaven-archetype-plugin:3.0.1:create-from-project[m [1m(default-cli)[0;1m > [0;1mgenerate-sources[m @ [36mdbhelper-parent[0;1m >>>[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m<<< [0;32mmaven-archetype-plugin:3.0.1:create-from-project[m [1m(default-cli)[0;1m < [0;1mgenerate-sources[m @ [36mdbhelper-parent[0;1m <<<[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-archetype-plugin:3.0.1:create-from-project[m [1m(default-cli)[m @ [36mdbhelper-parent[0;1m ---[m
+[[1;34mINFO[m] Setting default groupId: ru.rbt.dbhelper
+[[1;34mINFO[m] Setting default artifactId: dbhelper-parent
+[[1;34mINFO[m] Setting default version: 1.0-SNAPSHOT
+[[1;34mINFO[m] Setting default package: ru.rbt.dbhelper
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dbhelper-parent-archetype 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ dbhelper-parent-archetype ---
+[WARNING] Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 124 resources
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ dbhelper-parent-archetype ---
+[WARNING] Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-archetype-plugin:3.0.1:jar (default-jar) @ dbhelper-parent-archetype ---
+[INFO] Building archetype jar: C:\Users\BritikovMI\dbhelper\target\generated-sources\archetype\target\dbhelper-parent-archetype-1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.643 s
+[INFO] Finished at: 2018-01-10T14:26:32+03:00
+[INFO] Final Memory: 13M/155M
+[INFO] ------------------------------------------------------------------------
+[[1;34mINFO[m] Archetype project created in C:\Users\BritikovMI\dbhelper\target\generated-sources\archetype
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1mReactor Summary:[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] DbHelper Project ................................... [1;32mSUCCESS[m [ 11.099 s]
+[[1;34mINFO[m] Parser module ...................................... [1;33mSKIPPED[m
+[[1;34mINFO[m] DbHelper App Module ................................ [1;33mSKIPPED[m
+[[1;34mINFO[m] Ejb module ......................................... [1;33mSKIPPED[m
+[[1;34mINFO[m] DbHelper API Module ................................ [1;33mSKIPPED[m
+[[1;34mINFO[m] DbHelper Util lib .................................. [1;33mSKIPPED[m
+[[1;34mINFO[m] War module ......................................... [1;33mSKIPPED[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time: 11.630 s
+[[1;34mINFO[m] Finished at: 2018-01-10T14:26:32+03:00
+[[1;34mINFO[m] Final Memory: 13M/227M
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[m
